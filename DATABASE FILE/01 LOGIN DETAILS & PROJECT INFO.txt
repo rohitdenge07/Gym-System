@@ -9,6 +9,6 @@
 
 **Admin Login Details**
 
-Username: rohit
-Password: 1234
+Username: 
+Password: 
 
